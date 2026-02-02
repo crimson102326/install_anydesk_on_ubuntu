@@ -8,7 +8,7 @@ Installation
 --------------
 
 ```
-curl -sSL https://raw.githubusercontent.com/ndkhoa/anydesk/master/install_anydesk_on_ubuntu.sh | sh
+curl -sSL https://raw.githubusercontent.com/crimson102326/install_anydesk_on_ubuntu/master/install_anydesk_on_ubuntu.sh | sh
 ```
 
 Reference
